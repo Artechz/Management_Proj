@@ -1,0 +1,62 @@
+Mono path[0] = 'D:/arni0/Documents/MEGAsync/management_PROJ/n_Data/Managed'
+Mono path[1] = 'D:/arni0/Documents/MEGAsync/management_PROJ/n_Data/Mono'
+Mono config path = 'D:/arni0/Documents/MEGAsync/management_PROJ/n_Data/Mono/etc'
+PlayerConnection initialized from D:/arni0/Documents/MEGAsync/management_PROJ/n_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55394
+Multi-casting "[IP] 192.168.0.30 [Port] 55394 [Flags] 3 [Guid] 1056322870 [EditorId] 682138409 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-V91FPLQ) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.30:55394]...
+PlayerConnection accepted from [192.168.0.30] handle:0x2a0
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56870
+PlayerConnection already initialized - listening to [192.168.0.30:55394]
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.861629 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.503207 ms
+System memory in use before: 120.1 MB.
+System memory in use after: 120.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 899.
+Total: 0.432197 ms (FindLiveObjects: 0.075061 ms CreateObjectMapping: 0.016987 ms MarkObjects: 0.323950 ms  DeleteObjects: 0.011851 ms)
+
+Platform assembly: D:\arni0\Documents\MEGAsync\management_PROJ\n_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at delete.OnMouseEnter () [0x00000] in D:\arni0\Documents\MEGAsync\management_PROJ\Assets\Scripts\delete.js:19 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:18)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:201)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32) (at C:\buildslave\unity\build\Runtime\Export\MouseEvents.cs:144)
+ 
+(Filename: D:/arni0/Documents/MEGAsync/management_PROJ/Assets/Scripts/delete.js Line: 19)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 593c -> priority: 1 
+  Thread -> id: 3a90 -> priority: 1 
+Waiting for finish

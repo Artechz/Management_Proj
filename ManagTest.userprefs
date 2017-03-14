@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\comprarParcela.cs">
+    <Files>
+      <File FileName="Assets\script\comprarParcela.cs" Line="36" Column="3" />
+      <File FileName="Assets\script\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\start.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\hover.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\selectPrefab.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\delete.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\deletePrefab.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

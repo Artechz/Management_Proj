@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\tiletest\Tile Data\DTileMap.cs">
+    <Files>
+      <File FileName="Assets\Editor\TileMapInspector.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\LevelEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\tiletest\TileMap.cs" Line="58" Column="1" />
+      <File FileName="Assets\Scenes\testMauricio\test1.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scenes\tiletest\Tile Data\TDMap.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scenes\tiletest\Tile Data\TDTile.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scenes\tiletest\TileMapMouse.cs" Line="31" Column="4" NotebookId="1" />
+      <File FileName="Assets\Scenes\tiletest\Tile Graphics\TGMap.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scenes\tiletest\Tile Data\DTileMap.cs" Line="26" Column="4" NotebookId="1" />
+      <File FileName="Assets\Scripts\TimePass.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Scripts\DevDisplay.cs" Line="17" Column="21" NotebookId="1" />
+      <File FileName="Assets\Editor\TestInspector.cs" Line="12" Column="21" NotebookId="1" />
+      <File FileName="Assets\Scripts\Tile.cs" Line="9" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
